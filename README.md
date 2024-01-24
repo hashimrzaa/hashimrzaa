@@ -15,7 +15,7 @@ Programming isn't merely a job. It's a way of life. I'm motivated by the desire 
 
 Feel free to explore, collaborate, or connect if you share the same fervor for software development and the exciting world of AI and chatbots. Together, we can elevate the digital landscape, one line of code at a time!</p>
 
-| Currently Learning | NestJS, PostgreSQL |
+| Currently Learning | reactjs, javascript |
 | ------------------ | ------------------ |
 
 <hr>
@@ -39,21 +39,9 @@ Feel free to explore, collaborate, or connect if you share the same fervor for s
 	<img src="https://skillicons.dev/icons?i=react,express,mongodb,nodejs,ts" />
 	<img src="https://skillicons.dev/icons?i=postman,vercel" />
 	<img src="https://skillicons.dev/icons?i=redux,md,materialui,firebase" />
-	<a href="#">
-		<img alt="GitHub" title="GitHub" width="40" height="40" src="./images/github.png" style="padding-right:5px;" />
-	</a>
-	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS in PIAIC">
-		<img src="./images/nextjs.png" alt="nextjs" width="45" height="45" />
-	</a>
-	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
-		<img src="./images/icons8-npm-48.png" alt="NPM" width="40" height="40" />
-	</a>
 	<a href="https://socket.io/" target="_blank" rel="noreferrer"
 		title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
 		<img src="https://socket.io/images/logo.svg" alt="socket.IO" width="40" height="40" />
-	</a>
-	<a href="https://formik.org/" target="_blank" title="Build Form in REACT" style="text-decoration: none;">
-		<img src="./images/formik.png" width="40px" />
 	</a>
 </p>
 
@@ -65,10 +53,6 @@ Feel free to explore, collaborate, or connect if you share the same fervor for s
 	<img src="https://skillicons.dev/icons?i=solidity,nestjs,threejs,tensorflow,docker" />
 	<img src="https://skillicons.dev/icons?i=bash,redis,wasm,webflow,jest" />
 	<img src="https://skillicons.dev/icons?i=kubernetes,fastapi,d3,swift,aws" />
-	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
-		style="text-decoration: none;">
-		<img src="./images/dialogflow.png" width="40px" />
-	</a>
 </p>
 <hr>
 <br>
