@@ -1,4 +1,4 @@
-<img style alt="Coding" style="border-radius:16px;" src="https://static-cse.canva.com/blob/1143449/Wheretofindbeautifulandusefulfreeicons.png">
+<img style alt="Coding" style="border-radius:16px;hieght:100px" src="https://static-cse.canva.com/blob/1143449/Wheretofindbeautifulandusefulfreeicons.png">
 
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
  
