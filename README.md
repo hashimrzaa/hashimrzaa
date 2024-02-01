@@ -1,4 +1,4 @@
-<img style alt="Coding" style="border-radius:16px;" src="https://blog.elaniin.com/content/images/2023/11/Writing_clean_code_best_practices_and_tips_for_developers.jpg">
+<img style alt="Coding" style="border-radius:16px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6RCU6ZT0eruXerEyAbNGi-xXVDYWFxf8rj9His1oE_CkIywk9YNDqeETfOXZr8WBtV4Y&usqp=CAU">
 
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
  
