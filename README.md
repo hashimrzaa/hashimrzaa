@@ -1,4 +1,4 @@
-<img style alt="Coding" style="border-radius:16px;width:1000px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2bXOWexOKD3FJiFcWEbcoyk3sSXLq5AWfSsBUaKANNbMOzNp_usDBQ8tw-IhVNAOcpM&usqp=CAU">
+<img style alt="Coding" style="border-radius:16px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPIRfD3VHJ1jqLUp1TGddGeC2kkkXCyivOeQEGmPbwAtV2npavIS6tjVGfqOzxrW597HI&usqp=CAU">
 
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
  
