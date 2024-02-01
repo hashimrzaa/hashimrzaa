@@ -1,4 +1,4 @@
-<img style alt="Coding" style="border-radius:16px;" src="https://github.com/mabdullahjs/mabdullahjs/blob/master/images/background.png?raw=true">
+<img style alt="Coding" style="border-radius:16px;" src="https://blog.elaniin.com/content/images/2023/11/Writing_clean_code_best_practices_and_tips_for_developers.jpg">
 
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
  
