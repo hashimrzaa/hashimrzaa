@@ -1,4 +1,4 @@
-<img style alt="Coding" style="border-radius:16px;" src="https://appsero.com/app/uploads/2022/02/best-coding-practices.png">
+<img style alt="Coding" style="border-radius:16px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRGDUG2SNAV-zD70lsdJvK_Ad5Ke4m_HMcMQvMGNMvgqHbyy2CybTpWMNiJmXp73mCgLU&usqp=CAU">
 
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
  
