@@ -1,4 +1,4 @@
-<img style alt="Coding" style="border-radius:16px;" src="https://miro.medium.com/v2/resize:fit:1400/0*NQ5Ol7G9xoagtKQC">
+<img style alt="Coding" style="border-radius:16px;" src="/image.svg">
 
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
  
