@@ -1,4 +1,4 @@
-<img style alt="Coding" style="border-radius:16px;" src="[/image1.svg](https://kinsta.com/wp-content/uploads/2022/10/what-is-iot.jpg)">
+<img style alt="Coding" style="border-radius:16px;" src="https://kinsta.com/wp-content/uploads/2022/10/what-is-iot.jpg">
 
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
  
