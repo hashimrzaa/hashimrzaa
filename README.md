@@ -1,4 +1,4 @@
-<img style alt="Coding" style="border-radius:16px;" src="/image.svg">
+<img style alt="Coding" style="border-radius:16px;" src="/image2.svg">
 
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
  
