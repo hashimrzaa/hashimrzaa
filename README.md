@@ -1,5 +1,5 @@
 
-<p align="center"><img style alt="Coding" style="border-radius:16px;" src="https://media.istockphoto.com/id/1530256492/vector/software-development-concept-laptop-with-open-screen-hanging-over-desk-coding-or-programming.jpg?s=612x612&w=0&k=20&c=LLywtLnfu5FETIvkaFjy_xcHnaIGmaKZYxcPKAoyPcA="></p> 
+<p align="center"><img style alt="Coding" style="border-radius:16px;" src="https://e0.pxfuel.com/wallpapers/766/945/desktop-wallpaper-custom-software-development-graphic-design-computer-program.jpg"></p> 
 
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
  
