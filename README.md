@@ -25,8 +25,8 @@ Feel free to explore, collaborate, or connect if you share the same fervor for s
 <p align="left">
 	<a href="https://www.linkedin.com/in/hashimrzaa" target="blank"><img align="center"
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	<a href="https://www.instagram.com/hashimrxza/" target="blank" style="padding:8px"><img align="center"
-			src="https://skillicons.dev/icons?i=instagram" alt="hashimrxza" height="50" width="50" /></a>
+	<a href="https://www.instagram.com/hxashim/" target="blank" style="padding:8px"><img align="center"
+			src="https://skillicons.dev/icons?i=instagram" alt="hxashim" height="50" width="50" /></a>
 	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
 		alt="hashimrxza" align="right" />
 </p>
