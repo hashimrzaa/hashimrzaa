@@ -9,9 +9,7 @@
 
 ---
 
-### Portfolio 
-
-<a href="https://hashim.theplanetsolution.com">Click Me</a>
+###  <a href="https://hashim.theplanetsolution.com">Portfolio</a>
 
 ### 🚀 About Me
 
