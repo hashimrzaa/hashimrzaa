@@ -9,6 +9,12 @@
 
 ---
 
+### Portfolio 
+
+<a href="https://hashim.theplanetsolution.com">Click Me</a>
+
+---
+
 ### 🚀 About Me
 
 I am a **Full Stack Architect** specializing in building high-performance applications. With a focus on **Clean Architecture** in .NET and **Modern UI Patterns** in React, I turn complex business requirements into elegant digital solutions.
@@ -44,9 +50,3 @@ I am a **Full Stack Architect** specializing in building high-performance applic
 <a href="https://wa.me/923148335827"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
-
-### Portfolio 
-
-<a href="https://hashim.theplanetsolution.com">Click Me</a>
