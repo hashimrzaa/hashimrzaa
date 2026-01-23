@@ -1,59 +1,45 @@
+# Hi there, I'm Syed Hashim Raza 👋 🚀
 
-<p align="center"><img style alt="Coding" style="border-radius:16px;" src="https://media.istockphoto.com/id/1502289545/vector/technology-of-software-development-web-design-programming-concept-program-code-on-screen.jpg?s=612x612&w=0&k=20&c=IjkXl6uCuINBjLKmCq95TnhSQaHSAcJE2HzcNK42tv4="></p> 
+### Full Stack Developer | AI Enthusiast | Problem Solver
 
-<h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE ENGINEER!</h3>
- 
-<p>
-My name is hashim raza
+I am a passionate **Full Stack Web Developer** with over **3 years of professional remote experience** working with international teams (Saudi Arabia). I specialize in building scalable, user-centric web applications using modern stacks like **React, Next.js, and .NET Core**.
 
-Hello, fellow coders and tech enthusiasts! I'm a passionate software engineer, a dedicated MERN stackdeveloper, and deeply in love with the art of programming. Here on my GitHub account, you'll find atreasure trove of my coding adventures and projects that reflect my unending passion for creatinginnovative solutions.
+---
 
-Within this GitHub realm, you'll discover a diverse array of projects, code snippets, and experiments spanning various domains. From web applications harnessing the latest technologies to a wide range of software development projects, my GitHub is a testament to my unwavering commitment to the world of software development.
- 
-In addition to my software engineering endeavors, I founded Innovatrix Tech at the age of 20 and currently serve as its CEO. This experience has provided me with valuable insights into entrepreneurship and leadership in the tech industry.
+### 🛠 Skills & Technologies
 
-Programming isn't merely a job. It's a way of life. I'm motivated by the desire to craft meaningful solutions, tackle complex challenges, and embark on a perpetual journey of learning and growth in this dynamic field.
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Tailwind CSS, MUI, Bootstrap
+- **Backend:** .NET Core Web API, Node.js, Laravel
+- **Database:** SQL Server, MySQL
+- **AI Tools:** Claude AI, Prompt Engineering, AI Integration
+- **Soft Skills:** Remote Collaboration, Time Management, Complex Problem Solving
 
-Feel free to explore, collaborate, or connect if you share the same fervor for software development and the exciting world of AI and chatbots. Together, we can elevate the digital landscape, one line of code at a time!</p>
+---
 
-| Currently Learning  | Next JS |
-| ------------------- | ------- | 
+### 📈 GitHub Stats
 
-<hr>
-<h3 align="left">📫 Connect with me on 🔗 :</h3>
+| ![Hashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight) |
+| :--- | :--- |
 
-<p align="left">
-	<a href="https://www.linkedin.com/in/hashimrzaa" target="blank"><img align="center"
-			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	<a href="https://www.instagram.com/hashimra.za/" target="blank" style="padding:8px"><img align="center"
-			src="https://skillicons.dev/icons?i=instagram" alt="hxashim" height="50" width="50" /></a>
-	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="hashimrxza" align="right" />
-</p>
-<hr>
+---
 
-<h3 align="left">Languages and Tools ⚙️ : </h3>
+### 💻 Current Work & Goals
 
-<p align='center'>
-	<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-	<img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind,postgres" />
-	<img src="https://skillicons.dev/icons?i=react,express,mongodb,nodejs,ts" />
-	<img src="https://skillicons.dev/icons?i=postman,vercel" />
-	<img src="https://skillicons.dev/icons?i=redux,md,materialui,firebase" />
-	<a href="https://socket.io/" target="_blank" rel="noreferrer"
-		title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
-		<img src="https://socket.io/images/logo.svg" alt="socket.IO" width="40" height="40" />
-	</a>
-</p>
+- 🔭 I’m currently working as a **Full Stack Developer** for 3ha.one (Saudi Arabia).
+- 🌱 I’m currently deepening my expertise in **Next.js** and **AI-driven development**.
+- 👯 I’m looking to collaborate on Open Source projects and innovative Web Apps.
+- 💬 Ask me about **React, .NET Core, or how to work efficiently in remote teams**.
 
-<hr>
+---
 
-<h3 align="left">🏫 Plans of Learning :</h3>
+### 📫 Get in Touch
+
+- 📧 **Email:** hashimterminator20@gmail.com
+- 📍 **Location:** Karachi, Pakistan
+- 📱 **WhatsApp/Phone:** +92 314 8335827
+
+---
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=solidity,nestjs,threejs,tensorflow,docker" />
-	<img src="https://skillicons.dev/icons?i=bash,redis,wasm,webflow,jest" />
-	<img src="https://skillicons.dev/icons?i=kubernetes,fastapi,d3,swift,aws" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Hashim Raza" />
 </p>
-<hr>
-<br>
