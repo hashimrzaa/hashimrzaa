@@ -1,63 +1,50 @@
-# Hi there! I'm Syed Hashim Raza 👋
-
-### Senior Full-Stack Engineer | .NET Core & React Specialist
-**Building Scalable Enterprise Solutions with Modern Architecture**
-
-I am a highly analytical **Full-Stack Developer** with over **3 years of international remote experience** (Saudi Arabia). My expertise lies in bridging the gap between robust, high-performance backends (.NET Core) and dynamic, user-centric frontends (React/Next.js).
-
----
-
-### 🚀 Technical Arsenal
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Backend** | .NET 8/9, ASP.NET Core Web API, Entity Framework Core, LINQ |
-| **Frontend** | React.js, Next.js (SSR/ISR), TypeScript, Tailwind CSS, Redux Toolkit |
-| **Database** | SQL Server, PostgreSQL, MySQL, Database Optimization |
-| **Architecture** | Clean Architecture, Repository Pattern, Dependency Injection, JWT Auth |
-| **Tools & AI** | Git, Docker, Claude AI (SDLC Optimization), Postman, Agile/Scrum |
-
----
-
-### 📈 Professional Impact & Stats
+<p align="center">
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hashim's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;React.js+Expert;+.NET+Core+Specialist;AI+Integration+Pro" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 💻 Featured Engineering Projects
+### 🚀 About Me
 
-#### 🛠️ [Enterprise ERP / Management System]
-*A full-scale integration of .NET and React.*
-- **Backend:** Scalable .NET Core API with Identity Framework for secure role-based access.
-- **Frontend:** Responsive React dashboard using MUI and Tailwind for real-time data visualization.
-- **Key Outcome:** Optimized database queries reducing API latency by 35%.
+I am a **Full Stack Architect** specializing in building high-performance applications. With a focus on **Clean Architecture** in .NET and **Modern UI Patterns** in React, I turn complex business requirements into elegant digital solutions.
 
-#### 🌐 [Next.js E-Commerce Engine]
-*High-performance web application focused on SEO and Speed.*
-- **Tech Stack:** Next.js 14, Stripe Integration, SQL Server.
-- **Feature:** Implemented Server-Side Rendering (SSR) for instant page loads and improved search rankings.
+- 🌍 Based in **Karachi, Pakistan**
+- 💼 **3+ Years** International Remote Experience (Saudi Arabia)
+- ⚡ Expert in **Scalable Microservices** & **Interactive Frontends**
 
 ---
 
-### 🎯 Why I am a Strategic Asset
+### 🛠️ The Tech Stack
 
-- **Clean Code Advocate:** I write maintainable, testable code following SOLID principles.
-- **International Collaboration:** 3+ years of experience working across time zones in fast-paced remote environments.
-- **AI-Driven Velocity:** Expert at leveraging AI tools (Claude/GPT) to accelerate development cycles without sacrificing quality.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,dotnet,visualstudio,vscode,tailwind,bootstrap,js,ts,html,css,mssql,mysql,git,github,postman,pnpm" />
+</p>
+
+---
+
+### 🏆 Featured Engineering Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **Enterprise Core Engine** | `.NET Core` `SQL Server` | Optimized API logic resulting in a 40% reduction in server load. |
+| **Next-Gen UI Dashboard** | `React` `Tailwind` `MUI` | High-fidelity dashboard for international business operations. |
+| **AI Integration Layer** | `Claude AI` `Node.js` | Built a middleware to automate data processing via LLMs. |
 
 ---
 
-### 📫 Let's Connect
-- 💼 **LinkedIn:** [Insert Your Link Here]
-- 📧 **Email:** hashimterminator20@gmail.com
-- 📱 **WhatsApp:** +92 314-8335827
-- 📍 **Based in:** Karachi, Pakistan (Available for Global Remote Opportunities)
+### 📫 Connect With Me
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Views" />
+<p align="left">
+<a href="mailto:hashimterminator20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/923148335827"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
 </p>
