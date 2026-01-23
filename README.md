@@ -13,8 +13,6 @@
 
 <a href="https://hashim.theplanetsolution.com">Click Me</a>
 
----
-
 ### 🚀 About Me
 
 I am a **Full Stack Architect** specializing in building high-performance applications. With a focus on **Clean Architecture** in .NET and **Modern UI Patterns** in React, I turn complex business requirements into elegant digital solutions.
