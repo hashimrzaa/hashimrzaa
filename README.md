@@ -1,46 +1,63 @@
-# 🚀 Syed Hashim Raza | Full-Stack Software Engineer
+# Hi there! I'm Syed Hashim Raza 👋
 
-### Specialized in Enterprise-Level Web Solutions with .NET Core & React
+### Senior Full-Stack Engineer | .NET Core & React Specialist
+**Building Scalable Enterprise Solutions with Modern Architecture**
 
-I bridge the gap between complex backend architectures and high-performance frontends. With over **3 years of international remote experience**, I build robust, secure, and scalable applications that solve real-world business problems.
+I am a highly analytical **Full-Stack Developer** with over **3 years of international remote experience** (Saudi Arabia). My expertise lies in bridging the gap between robust, high-performance backends (.NET Core) and dynamic, user-centric frontends (React/Next.js).
 
 ---
 
-### 🏆 Core Expertise
+### 🚀 Technical Arsenal
 
-| **Area** | **Tech Stack** |
+| Layer | Technologies |
 | :--- | :--- |
-| **Backend Mastery** | .NET Core 8/9, Web API, Entity Framework, Clean Architecture |
-| **Frontend Excellence** | React.js, Next.js (SSR/ISR), Redux, Tailwind CSS, MUI |
-| **Database & Cloud** | SQL Server, PostgreSQL, Redis, RESTful APIs |
-| **Modern Workflow** | AI-Assisted Development (Claude/GPT), Git, Agile/Scrum |
+| **Backend** | .NET 8/9, ASP.NET Core Web API, Entity Framework Core, LINQ |
+| **Frontend** | React.js, Next.js (SSR/ISR), TypeScript, Tailwind CSS, Redux Toolkit |
+| **Database** | SQL Server, PostgreSQL, MySQL, Database Optimization |
+| **Architecture** | Clean Architecture, Repository Pattern, Dependency Injection, JWT Auth |
+| **Tools & AI** | Git, Docker, Claude AI (SDLC Optimization), Postman, Agile/Scrum |
 
 ---
 
-### 💻 Why Work With Me?
+### 📈 Professional Impact & Stats
 
-- **Architectural Thinking:** Main sirf code nahi likhta, balki scalable system design karta hoon (Repository Pattern, Dependency Injection).
-- **Performance Driven:** React applications ko optimize karna aur .NET APIs ka response time kam karna meri priority hoti hai.
-- **AI-Integrated:** Modern AI tools (like Claude) ka expert use karke main development speed ko optimize karta hoon baghair quality par compromise kiye.
-
----
-
-### 📊 Professional Metrics
-
-![Hashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hashim's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-### 🛠️ Featured Project (Enterprise Level)
-**[Project Name] - Full Stack E-Commerce/Management System**
-- **Frontend:** React + Next.js for high-speed UI.
-- **Backend:** .NET Core Web API for secure data handling.
-- **Result:** Improved system performance by 40% and simplified user workflow.
+### 💻 Featured Engineering Projects
+
+#### 🛠️ [Enterprise ERP / Management System]
+*A full-scale integration of .NET and React.*
+- **Backend:** Scalable .NET Core API with Identity Framework for secure role-based access.
+- **Frontend:** Responsive React dashboard using MUI and Tailwind for real-time data visualization.
+- **Key Outcome:** Optimized database queries reducing API latency by 35%.
+
+#### 🌐 [Next.js E-Commerce Engine]
+*High-performance web application focused on SEO and Speed.*
+- **Tech Stack:** Next.js 14, Stripe Integration, SQL Server.
+- **Feature:** Implemented Server-Side Rendering (SSR) for instant page loads and improved search rankings.
+
+---
+
+### 🎯 Why I am a Strategic Asset
+
+- **Clean Code Advocate:** I write maintainable, testable code following SOLID principles.
+- **International Collaboration:** 3+ years of experience working across time zones in fast-paced remote environments.
+- **AI-Driven Velocity:** Expert at leveraging AI tools (Claude/GPT) to accelerate development cycles without sacrificing quality.
 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** hashimterminator20@gmail.com
-- **WhatsApp:** +92 314-8335827
+- 💼 **LinkedIn:** [Insert Your Link Here]
+- 📧 **Email:** hashimterminator20@gmail.com
+- 📱 **WhatsApp:** +92 314-8335827
+- 📍 **Based in:** Karachi, Pakistan (Available for Global Remote Opportunities)
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Views" />
+</p>
