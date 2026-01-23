@@ -49,4 +49,4 @@ I am a **Full Stack Architect** specializing in building high-performance applic
 
 ### Portfolio 
 
-<a href="https//:hashim.theplanetsolution.com">Click Me</a>
+<a href="https://hashim.theplanetsolution.com">Click Me</a>
